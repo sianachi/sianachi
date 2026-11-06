@@ -17,7 +17,6 @@ Software engineer in **Birmingham, UK**, building backends, self-hosted tools an
 | Project | Stack | What it is |
 | --- | --- | --- |
 | [nixsites](https://github.com/sianachi/nixsites) | ASP.NET Core · TypeScript/React · Postgres | Self-hosted workspace for notes, tasks, calendar, habits, files and AI agents ([demo/docs](https://nix.nixsites.com/)) |
-| [Jobbie](https://github.com/sianachi/Jobbie) | .NET · TypeScript/React | Open-source AI CV editor, job tracker and browser extension ([jobbiefind.com](https://www.jobbiefind.com/)) |
 | [refactor_skills](https://github.com/sianachi/refactor_skills) | Python | Agent skills for debloating code and measuring performance fixes |
 
 ### Education
