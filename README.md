@@ -18,7 +18,7 @@ Software engineer in **Birmingham, UK**, building backends, self-hosted tools an
 | --- | --- | --- |
 | [nixsites](https://github.com/sianachi/nixsites) | ASP.NET Core · TypeScript/React · Postgres | Self-hosted workspace for notes, tasks, calendar, habits, files and AI agents ([demo/docs](https://nix.nixsites.com/)) |
 | [sani](https://github.com/sianachi/sani) | TypeScript · Node.js · SQLite · Docker | Self-hosted broker that lets AI coding agents use authenticated tools and run human-approved commands in a Docker sandbox, without ever holding the secrets (release candidate) |
-| KitGit *(private, coming soon)* | Swift · Python | Multiplatform Git client for macOS, Windows and Linux with a commit graph, partial staging, interactive rebase, a conflict editor and GitHub PR review |
+| [KitGit](https://github.com/sianachi/KitGit) | Swift · Python | Multiplatform Git client for macOS, Windows and Linux with a commit graph, partial staging, interactive rebase, a conflict editor and GitHub PR review |
 | [refactor_skills](https://github.com/sianachi/refactor_skills) | Python | Agent skills for debloating code and measuring performance fixes |
 
 ### Education
