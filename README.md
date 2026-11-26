@@ -17,11 +17,11 @@ Software engineer in **Birmingham, UK**, building backends, self-hosted tools an
 
 | Project | Stack | What it is |
 | --- | --- | --- |
-| [Glang](https://github.com/sianachi/Glang) | C · Glang · TypeScript | Statically typed, C-style systems language with classes, interfaces, generics, tagged unions and `match`. It compiles to C and also runs in a tree-walking interpreter, and ships with a standard library written in Glang, an LSP and VS Code extension ([try it in the browser](https://glang.nwagboso.com/#/playground)) |
-| [J OS](https://github.com/sianachi/jos) | Rust · x86-64 · QEMU | Small x86-64 operating system with no Linux kernel code. Its kernel implements the Linux system call ABI itself, so unmodified Linux programs run on it: the Debian userland, AppImages, X11 apps, XFCE, Firefox over its own TCP/IP stack, and Windows programs through Wine. It has its own mouse-driven desktop and a DOS emulator written from scratch |
 | [nixsites](https://github.com/sianachi/nixsites) | ASP.NET Core · TypeScript/React · Postgres | Self-hosted workspace for notes, tasks, calendar, habits, files and AI agents ([demo/docs](https://nix.nixsites.com/)) |
 | [sani](https://github.com/sianachi/sani) | TypeScript · Node.js · SQLite · Docker | Self-hosted broker that lets AI coding agents use authenticated tools and run human-approved commands in a Docker sandbox, without ever holding the secrets (release candidate) |
 | [KitGit](https://github.com/sianachi/KitGit) | Swift · Python | Multiplatform Git client for macOS, Windows and Linux with a commit graph, partial staging, interactive rebase, a conflict editor and GitHub PR review |
+| [Glang](https://github.com/sianachi/Glang) | C · Glang · TypeScript | Statically typed, C-style systems language with classes, interfaces, generics, tagged unions and `match`. It compiles to C and also runs in a tree-walking interpreter, and ships with a standard library written in Glang, an LSP and VS Code extension ([try it in the browser](https://glang.nwagboso.com/#/playground)) |
+| [J OS](https://github.com/sianachi/jos) | Rust · x86-64 · QEMU | Small x86-64 operating system with no Linux kernel code. Its kernel implements the Linux system call ABI itself, so unmodified Linux programs run on it: the Debian userland, AppImages, X11 apps, XFCE, Firefox over its own TCP/IP stack, and Windows programs through Wine. It has its own mouse-driven desktop and a DOS emulator written from scratch |
 | [refactor_skills](https://github.com/sianachi/refactor_skills) | Python | Agent skills for debloating code and measuring performance fixes |
 
 ### Education
